@@ -5,22 +5,25 @@
 ![Cat Image](https://img.huffingtonpost.com/asset/5dcc613f1f00009304dee539.jpeg)
 
 
+
 # numpy
 
 ## numpy
 
 ### numpy
 
+
 Numpy is A Python Library for dealing with numerical useful python package.
 
-Use the package manager [numpy](https://pip.pypa.io/en/stable/) to install numpy package.[Google](google.com)
+Use the package manager [numpy](http://pip.pypa.io/en/stable) to install numpy package. [Google](google.com)
 Press Facebook
-[Facebook](www.facebook.com)
-[]()
+[Facebook.com](www.facebook.com)
+
 
 ```bash
 pip install numpy
 ```
+
 
 ## Usage
 
@@ -28,27 +31,27 @@ pip install numpy
 import numpy
 numpy.pluralized('image') # returns 'Image'
 numpy.pluralized('goose') # returns 'geese'
-numpy.singularize('phenomena') #returns 'phenomenon'
+numpy.singularize('phenomena') # returns 'phenomenon'
 ```
-
 
 ![alt text](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
 ![alt_sloth](https://static01.nyt.com/images/2014/01/28/science/28SLOT_SPAN/28SLOT-jumbo.jpg)
 
-
 ## Contributing
 
 ```
-Pull Request are Welcome.For Major Changes,Please open an issue first to discuss what you would like to change.
+Pull Request are Welcome.FOr Major Changes, Please open an issuse first to discuss what you would like to change.
 ```
 
 ```
 Make Software.For Major Changes,Please open the new world.
 ```
 
+
 ```python
 from math import pi
 ```
+
 -numpy
 
 -matplotlib
@@ -59,10 +62,11 @@ from math import pi
 
 Please make sure to update tests as appropriate.
 
+
 -![#FF0000]'RED'
 
 ```diff
--text in red
+-text in read
 +text in green
 !text in orange
 #text in grey
@@ -76,3 +80,8 @@ Please make sure to update tests as appropriate.
 ```
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+
+
